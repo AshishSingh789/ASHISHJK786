@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ashish Singh (@ASHISHJK786)
+# 👋 Hi, I’m Rohit Kumar (@ASHISHJK786)
 
 - 👀 I’m deeply interested in Data Science, Analytics, and Predictive Modeling.
 - 🌱 I’m enhancing my Machine Learning and Data Visualization skills.
